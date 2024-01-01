@@ -18,7 +18,7 @@ import { ManagerEntity } from 'src/manager/manager.entity';
     secure: true,
     auth: {
     user: 'shohanmorol123@gmail.com',
-    pass: 'rrfektjltgbtzahy'
+    pass: ''
     },
     }})
     ],
